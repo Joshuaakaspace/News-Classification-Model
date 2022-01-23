@@ -1,9 +1,0 @@
-sqlite3 
-streamlit
-pandas 
-matplotlib
-seaborn 
-pickle
-joblib
-scikit_learn
-spacy
