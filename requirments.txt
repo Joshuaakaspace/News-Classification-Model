@@ -1,8 +1,8 @@
 sqlite3 
 streamlit
-pandas as pd 
+pandas 
 matplotlib
-seaborn as sns 
+seaborn 
 pickle
 joblib
 scikit_learn
