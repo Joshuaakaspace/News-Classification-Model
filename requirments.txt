@@ -1,0 +1,9 @@
+sqlite3 
+streamlit
+pandas as pd 
+matplotlib
+seaborn as sns 
+pickle
+joblib
+scikit_learn
+spacy
